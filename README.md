@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Komal Rasanjana</h1>
-<h3 align="center">🚀 Full Stack Developer | Building Modern Web & Mobile Applications from Sri Lanka 🇱🇰</h3>
+<h3 align="center">Full Stack Software Engineer passionate about Java, React, Android, SQL, REST APIs, and solving real-world problems through innovative software solutions.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+JavaScript;Web+%26+Mobile+App+Developer;Always+Learning+New+Things" />
@@ -39,34 +39,41 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,java,python,firebase,mysql,mongodb,androidstudio,flutter,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=java,js,php,react,html,css,bootstrap,arduino,mysql,firebase,git,github,vscode,androidstudio,idea,netbeans" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rasanjana2003&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasanjana2003&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rasanjana2003&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rasanjana2003&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasanjana2003&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=rasanjana2003&theme=radical&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rasanjana2003&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rasanjana2003&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
+
+</div>
 
 ---
 
-## ✨ Quote of the Day
+## 📈 Contribution Graph
 
-<p align="center">
-  <i>"Code. Create. Innovate. Repeat."</i>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rasanjana2003&theme=react-dark&hide_border=true"/>
+
+</div>
