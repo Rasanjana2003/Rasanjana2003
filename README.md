@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Komal Rasanjana</h1>
+<h3 align="center">🚀 Full Stack Developer | Building Modern Web & Mobile Applications from Sri Lanka 🇱🇰</h3>
 
-<!--
-**Rasanjana2003/Rasanjana2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+JavaScript;Web+%26+Mobile+App+Developer;Always+Learning+New+Things" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rasanjana2003&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Full Stack Web Development with React, Node.js & Modern UI/UX**
+- 💬 Ask me about **React, JavaScript, Node.js & Web Development**
+- 📫 Reach me at **komalrasanjana26@gmail.com**
+- ⚡ Fun fact: **Developer by profession, music creator by passion 🎵**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/komal-rasanjana/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://github.com/rasanjana2003" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+<a href="mailto:komalrasanjana26@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,java,python,firebase,mysql,mongodb,androidstudio,flutter,git,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rasanjana2003&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasanjana2003&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rasanjana2003&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rasanjana2003&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## ✨ Quote of the Day
+
+<p align="center">
+  <i>"Code. Create. Innovate. Repeat."</i>
+</p>
