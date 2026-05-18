@@ -21,13 +21,6 @@ Full Stack Software Engineer passionate about building scalable Web Applications
 - ☁️ Learning DevOps & Cloud Engineering (Linux, Docker, AWS basics)
 - 🎵 Music creator  
 - 📫 Reach me at komalrasanjana26@gmail.com
----
-
-## 🚀 Learning Path
-
-- 🌐 **Web Development → Main Focus (React, Node.js, Full Stack)**
-- 🖥️ **Desktop / Enterprise Systems → Java, MySQL, Business Applications**
-- ☁️ **DevOps / Cloud Engineering → Linux, Docker, AWS Basics (Learning Phase)**
 
 ---
 
