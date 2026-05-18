@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Komal Rasanjana</h1>
-<h3 align="center">Full Stack Software Engineer passionate about Java, React, Android, SQL, REST APIs, and solving real-world problems through innovative software solutions.</h3>
+
+<h3 align="center">
+Full Stack Software Engineer passionate about building scalable Web Applications, Desktop Systems, and exploring Cloud & DevOps technologies. I enjoy solving real-world problems using Java, React, and modern software architectures.
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+JavaScript;Web+%26+Mobile+App+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Desktop+%26+Enterprise+Systems+Developer;Aspiring+DevOps+%26+Cloud+Engineer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -13,10 +16,18 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Full Stack Web Development with React, Node.js & Modern UI/UX**
-- 💬 Ask me about **React, JavaScript, Node.js & Web Development**
-- 📫 Reach me at **komalrasanjana26@gmail.com**
-- ⚡ Fun fact: **Developer by profession, music creator by passion 🎵**
+- 🌱 Web Development  (React, Node.js, JavaScript, and REST APIs)
+- 🖥️ Developing Desktop & Enterprise Systems ( Java and MySQL)
+- ☁️ Learning DevOps & Cloud Engineering (Linux, Docker, AWS basics)
+- 🎵 Music creator  
+- 📫 Reach me at komalrasanjana26@gmail.com
+---
+
+## 🚀 Learning Path
+
+- 🌐 **Web Development → Main Focus (React, Node.js, Full Stack)**
+- 🖥️ **Desktop / Enterprise Systems → Java, MySQL, Business Applications**
+- ☁️ **DevOps / Cloud Engineering → Linux, Docker, AWS Basics (Learning Phase)**
 
 ---
 
