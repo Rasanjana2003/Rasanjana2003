@@ -27,6 +27,9 @@ Full Stack Software Engineer passionate about building scalable Web Applications
 ## 🌐 Connect with Me
 
 <p align="left">
+<a href="https://www.instagram.com/rasanjana_28?igsh=ZDBrMHZ3NHNnbzQw" target="_blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
 <a href="https://www.linkedin.com/in/komal-rasanjana/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
@@ -36,9 +39,7 @@ Full Stack Software Engineer passionate about building scalable Web Applications
 <a href="mailto:komalrasanjana26@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
-<a href="https://www.instagram.com/rasanjana_28?igsh=ZDBrMHZ3NHNnbzQw" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
+
 </p>
 
 ---
