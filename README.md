@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Komal Rasanjana</h1>
 
 <h3 align="center">
-Full Stack Software Engineer passionate about building scalable Web Applications, Desktop Systems, and exploring Cloud & DevOps technologies. I enjoy solving real-world problems using Java, React, and modern software architectures.
+Full Stack Software Engineer passionate about building scalable Web Applications, Desktop Systems. I enjoy solving real-world problems using Java, React, and modern software architectures.
 </h3>
 
 <p align="center">
@@ -18,7 +18,6 @@ Full Stack Software Engineer passionate about building scalable Web Applications
 
 - 🌱 Web Development  (React, Node.js, JavaScript, and REST APIs)
 - 🖥️ Developing Desktop & Enterprise Systems ( Java and MySQL)
-- ☁️ Learning DevOps & Cloud Engineering (Linux, Docker, AWS basics)
 - 🎵 Music creator  
 - 📫 Reach me at komalrasanjana26@gmail.com
 
