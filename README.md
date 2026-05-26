@@ -5,7 +5,7 @@ Full Stack Software Engineer passionate about building scalable Web Applications
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Desktop+%26+Enterprise+Systems+Developer;Aspiring+DevOps+%26+Cloud+Engineer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Desktop+%26+Enterprise+Systems+Developer;+Learning+New+Technologies" />
 </p>
 
 <p align="center">
