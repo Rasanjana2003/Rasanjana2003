@@ -16,7 +16,7 @@ A Full-Stack Developer and UI/UX Designer specialising in building modern, user-
 
 ## 👨‍💻 About Me
 
-- 🌱 Web Development  (React, Node.js, JavaScript, and REST APIs)
+- 🌱 Web Development and UI/UX Designer (React, Node.js, JavaScript, and REST APIs)
 - 🖥️ Developing Desktop & Enterprise Systems ( Java and MySQL)
 - 🎵 Music creator  
 - 📫 Reach me at komalrasanjana26@gmail.com
